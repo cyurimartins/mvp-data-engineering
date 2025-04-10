@@ -1,4 +1,5 @@
-# 📊 MVP de Pipeline de Dados - Campeonato Brasileiro 2024
+# 📊 MVP ENGENHARIA DE DADOS
+Pipeline Campeonato Brasileiro 2024
 
 Este projeto é parte do trabalho de pós-graduação e tem como objetivo construir um pipeline completo de dados na nuvem utilizando a plataforma **Databricks Community Edition**. O conjunto de dados analisado refere-se ao desempenho de jogadores no **Campeonato Brasileiro de 2024**.
 

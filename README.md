@@ -96,6 +96,13 @@ A dimensão tempo foi ajustada para formato `yyyy-MM-dd` e os dias da semana for
 
 ---
 
+## 📚 Dicionário de Dados
+O dicionário de dados completo, com a descrição de todas as tabelas, colunas e seus respectivos tipos, está documentado diretamente no notebook principal:
+
+📄 notebooks/mvp_campeonato_br_2024.ipynb
+
+---
+
 ## 📂 Estrutura do Projeto
 
 ```

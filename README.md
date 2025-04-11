@@ -94,6 +94,21 @@ A dimensão tempo foi ajustada para formato `yyyy-MM-dd` e os dias da semana for
 
 ## 📂 Estrutura do Projeto
 
+mvp-data-engineering/
+│
+├── dados/                          # Arquivos de dados brutos
+│   └── camp_br_2024.csv
+│
+├── img/                            # Imagens utilizadas na documentação
+│   └── modelagem_mvp.png
+│
+├── notebooks/                      # Notebook principal do projeto
+│   └── mvp_campeonato_br_2024.ipynb
+│
+├── .gitignore                      # Arquivos e pastas ignorados pelo Git
+├── LICENSE                         # Licença do projeto
+└── README.md                       # Documentação principal do projeto
+
 
 ## ▶️ Como Executar
 

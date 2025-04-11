@@ -9,14 +9,7 @@ Este projeto é parte do trabalho de pós-graduação e tem como objetivo constr
 
 ## 🎯 Objetivo
 
-O objetivo principal é analisar dados de performance de jogadores para responder perguntas como:
-
-- Quais jogadores mais marcaram gols?
-- Quais são os mais eficientes (gols/minutos)?
-- Quais clubes possuem os elencos mais produtivos?
-- Existe correlação entre idade e desempenho?
-- Como o desempenho varia ao longo do tempo (dimensão tempo)?
-- Quais países mais contribuem com jogadores de destaque?
+O objetivo deste projeto é construir um pipeline completo de dados para análise do desempenho de jogadores no Campeonato Brasileiro de 2024, utilizando ferramentas de Engenharia de Dados modernas e escaláveis.
 
 ---
 

@@ -60,8 +60,12 @@ O modelo estrela foi utilizado, com a seguinte estrutura:
   - `dim_posicao`
   - `dim_tempo`
 
-https://github.com/cyurimartins/mvp-data-engineering/blob/main/img/modelagem_mvp.png
+##### https://github.com/cyurimartins/mvp-data-engineering/blob/main/img/modelagem_mvp.png
 ![Modelagem Dimensional](img/modelagem_mvp.png)
+
+<p align="center">
+  <img src="img/modelagem_mvp.png" alt="Modelo Dimensional" width="600"/>
+</p>
 ---
 
 ## 📈 Análises Realizadas
